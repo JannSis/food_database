@@ -1,0 +1,12 @@
+{
+  "manifestVersion": 1,
+  "formatVersion": 1,
+  "catalogVersion": "2026-11-22",
+  "builtAt": "2026-11-22T09:07:15.286192Z",
+  "productCount": 297104,
+  "file": "catalog.sqlite.gz",
+  "compressedBytes": 29656917,
+  "compressedSha256": "c5dc021a7d69b4c22bb38df3f00ae511dc8ac1f6e97c7fa040c28ce4f1bb37b6",
+  "bytes": 70492160,
+  "sha256": "9460bffb446c5f629262c92bcaf0d1524ddf0d071337543cd885ac4e6430dd66"
+}
